@@ -9,6 +9,7 @@ Task 2 is a python calculator
 Task 3 is a python password generator 
 <br>
 Task 4 is a python rock paper scissors game
+<br>
 Hope you like it ! 
 <br>
 ## Contact
